@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{7F7CAB8C-9F93-4B3A-B9E6-EFD92A5419B4}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EmployeeManagement/Startup.cs">
+    <Files>
+      <File FileName="EmployeeManagement/Startup.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EmployeeManagement" expanded="True" selected="True">
+            <Node name="EmployeeManagement" expanded="True">
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.EmployeeManagement PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
